@@ -13,7 +13,6 @@ bin/
 *.iml
 *.ipr
 *.iws
-.vscode/
 .classpath
 .project
 .settings/
@@ -38,3 +37,7 @@ Thumbs.db
 # Web UI
 repolens-web-ui/node_modules/
 repolens-web-ui/dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
